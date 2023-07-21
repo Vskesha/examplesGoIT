@@ -1,7 +1,7 @@
 from calculations.salary_calculations import add_bonus
 
+
 salary = 1000
 bonus = 15
 salary_with_bonus = add_bonus(salary, bonus)
-print(f"{salary_with_bonus=}")
-
+print(salary_with_bonus)

@@ -1,5 +1,5 @@
-from utility import nice_function, not_bad
+from utility import not_bad_function, nice_function
 
 
 nice_function()
-not_bad()
+not_bad_function()

@@ -1,2 +1,2 @@
 def some_function():
-    pass
+    print("Inside 'some_function' in 'useful' package")

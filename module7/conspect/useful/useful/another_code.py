@@ -1,2 +1,2 @@
-def another_code():
-    pass
+def another_function():
+    print("Inside 'another_function' in 'useful' package")
