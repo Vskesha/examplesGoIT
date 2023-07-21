@@ -8,4 +8,6 @@ setup(name='useful',
       author='Flying Circus',
       author_email='flyingcircus@example.com',
       license='MIT',
-      packages=find_namespace_packages())
+      packages=find_namespace_packages(),
+      install_requires=['requests'],
+      include_package_data=True)
