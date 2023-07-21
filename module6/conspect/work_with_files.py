@@ -1,5 +1,5 @@
 def main():
-    fh = open('../Lecture8/ex_10.py')
+    fh = open('../../module4/Lecture8/ex_10.py')
     try:
         fh1 = open('ex_10.py')
     except FileNotFoundError:
