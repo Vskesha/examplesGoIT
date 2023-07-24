@@ -1,0 +1,1 @@
+-e git+ssh://git@github.com/Vskesha/examplesGoIT@ad440ac0b09d50a247a7ceb9da6a5052961172e4#egg=useful&subdirectory=module7/conspect/useful
