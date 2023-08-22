@@ -1,0 +1,842 @@
+[
+    {
+        "name": "Марія Байда",
+        "phone_number": "+380 (85) 838-94-94",
+        "email": "iarema60@example.org",
+        "address": "набережна Грецька, буд. 2 кв. 659, Перемишляни, 95133",
+        "birthday": "1972-11-17"
+    },
+    {
+        "name": "пан Остап Гресь",
+        "phone_number": "320 45 06",
+        "email": "odarkahaidabura@example.com",
+        "address": "шосе Давида Ойстраха, буд. 9, Вижниця, 96315",
+        "birthday": "1999-04-07"
+    },
+    {
+        "name": "пан Павло Іванченко",
+        "phone_number": "068 334-50-80",
+        "email": "liubovsatsiuk@example.com",
+        "address": "набережна Лермонтовський, буд. 2 кв. 351, Кадіївка, 75921",
+        "birthday": "1990-08-22"
+    },
+    {
+        "name": "Тарас Ґерус",
+        "phone_number": "+380 63 813 41 97",
+        "email": "bavramenko@example.com",
+        "address": "провулок Ніжинська, буд. 7 кв. 543, Люботин, 54563",
+        "birthday": "1988-08-20"
+    },
+    {
+        "name": "Олена Чорновіл",
+        "phone_number": "+380 98 170-01-20",
+        "email": "demydenkoliliia@example.com",
+        "address": "провулок Кришталевий, буд. 189, Моршин, 82668",
+        "birthday": "2021-01-12"
+    },
+    {
+        "name": "Оксенія Левченко",
+        "phone_number": "+380 (25) 858-69-61",
+        "email": "gandriichuk@example.com",
+        "address": "провулок Південна, буд. 1, Бунге , 55255",
+        "birthday": "1980-03-27"
+    },
+    {
+        "name": "Орися Сіробаба",
+        "phone_number": "086 207-89-64",
+        "email": "danna84@example.net",
+        "address": "провулок Пересипська 1-ша, буд. 74 кв. 95, Буринь, 33289",
+        "birthday": "1970-01-11"
+    },
+    {
+        "name": "пан Святослав Пушкар",
+        "phone_number": "+380 42 410-43-11",
+        "email": "ievtushokklyment@example.net",
+        "address": "вулиця Керченський 1-й, буд. 19, Тиврів, 52680",
+        "birthday": "1991-08-03"
+    },
+    {
+        "name": "Ірина Чекалюк",
+        "phone_number": "969 14 95",
+        "email": "ffurs@example.net",
+        "address": "провулок Ангарська, буд. 3, Мирноград, 61585",
+        "birthday": "2021-09-19"
+    },
+    {
+        "name": "Аніта Чайка",
+        "phone_number": "+380 (85) 528-82-67",
+        "email": "zarudnyinataliia@example.org",
+        "address": "сквер Думська, буд. 77, Гайсин, 33101",
+        "birthday": "1988-02-20"
+    },
+    {
+        "name": "Лілія Лубенець",
+        "phone_number": "+380 96 591-15-03",
+        "email": "zynovii59@example.org",
+        "address": "сквер Спаський, буд. 1, Герца, 51466",
+        "birthday": "2020-01-20"
+    },
+    {
+        "name": "Ірена Негода",
+        "phone_number": "964-25-01",
+        "email": "bohodarzasiadko@example.org",
+        "address": "сквер Полуничний, буд. 906 кв. 47, Амвросіївка, 95347",
+        "birthday": "2018-11-23"
+    },
+    {
+        "name": "Борислав Бевз",
+        "phone_number": "392 68 76",
+        "email": "kyrylo02@example.com",
+        "address": "проспект Миколи Вороного, буд. 7, Ворожба, 22276",
+        "birthday": "2003-09-16"
+    },
+    {
+        "name": "Ліза Козаченко",
+        "phone_number": "911 03 15",
+        "email": "babychenkookseniia@example.net",
+        "address": "провулок Лугова, буд. 857, Ізмаїл, 35605",
+        "birthday": "2007-04-30"
+    },
+    {
+        "name": "Богуслава Полтавець",
+        "phone_number": "+380 75 507-61-03",
+        "email": "derehusserhii@example.org",
+        "address": "провулок Рекордний, буд. 25 кв. 372, Дружба , 04647",
+        "birthday": "2014-08-14"
+    },
+    {
+        "name": "Спас Рак",
+        "phone_number": "084 851-92-88",
+        "email": "leontiibandera@example.net",
+        "address": "проспект Суворовська, буд. 310, Моршин, 84034",
+        "birthday": "2018-12-01"
+    },
+    {
+        "name": "Юстина Габелко",
+        "phone_number": "044-35-84",
+        "email": "markoiefymenko@example.org",
+        "address": "проспект Спартаківська, буд. 44, Стрий, 72728",
+        "birthday": "1991-09-04"
+    },
+    {
+        "name": "Алла Шаблій",
+        "phone_number": "470-26-86",
+        "email": "zvatamaniuk@example.net",
+        "address": "парк Амурський 2-й, буд. 230, Кам'янка-Дніпровська, 24853",
+        "birthday": "1970-12-21"
+    },
+    {
+        "name": "Михайлина Чарниш",
+        "phone_number": "+380 79 664-11-20",
+        "email": "zynovii02@example.com",
+        "address": "шосе Інглезі, буд. 5 кв. 10, Снятин, 24925",
+        "birthday": "1986-06-21"
+    },
+    {
+        "name": "Володимир Іващенко",
+        "phone_number": "+380 09 011-50-31",
+        "email": "ielysavetaoliinyk@example.net",
+        "address": "парк Маріїнська, буд. 8, Сновськ, 17080",
+        "birthday": "2007-10-25"
+    },
+    {
+        "name": "Маруся Давимука",
+        "phone_number": "+380 98 229-22-91",
+        "email": "iukhym44@example.com",
+        "address": "площа Рибальська, буд. 119, Яготин, 52517",
+        "birthday": "1997-10-14"
+    },
+    {
+        "name": "Марта Чабан",
+        "phone_number": "016 221 43 19",
+        "email": "lemeshkosolomon@example.com",
+        "address": "узвіз Зарічна, буд. 0 кв. 161, Рені, 92383",
+        "birthday": "1980-11-21"
+    },
+    {
+        "name": "Галина Артимович",
+        "phone_number": "+380 08 013-24-69",
+        "email": "ravramenko@example.org",
+        "address": "площа 16-та Лінія 6-й ст. Люстдорфської дороги, буд. 28, Амвросіївка, 59505",
+        "birthday": "2001-06-16"
+    },
+    {
+        "name": "Ірена Гаврилюк",
+        "phone_number": "752 49 98",
+        "email": "ustymzhalilo@example.net",
+        "address": "площа Дюківська, буд. 9 кв. 0, Черкаси, 88380",
+        "birthday": "1994-08-13"
+    },
+    {
+        "name": "пані Дарина Саєнко",
+        "phone_number": "+380 (97) 675-76-52",
+        "email": "prykhodkoleonid@example.com",
+        "address": "набережна Скворцова, буд. 01, Тиврів, 68676",
+        "birthday": "1984-12-08"
+    },
+    {
+        "name": "Хома Юрчук",
+        "phone_number": "+380 82 468-52-40",
+        "email": "oryna80@example.net",
+        "address": "проспект Лінія 53-тя, буд. 80, Кременчук, 67489",
+        "birthday": "1981-02-11"
+    },
+    {
+        "name": "Юстина Акименко",
+        "phone_number": "+380 01 640-91-71",
+        "email": "ulavrenko@example.org",
+        "address": "узвіз Кругова, буд. 4, Городня, 69249",
+        "birthday": "1977-06-22"
+    },
+    {
+        "name": "Миколай Ващенко",
+        "phone_number": "029 894-99-34",
+        "email": "yzhalilo@example.org",
+        "address": "сквер Кренкеля, буд. 0, Добропілля, 92900",
+        "birthday": "1996-01-17"
+    },
+    {
+        "name": "Леопольд Мірошниченко",
+        "phone_number": "538-99-80",
+        "email": "tymchukorest@example.org",
+        "address": "вулиця Матроська Слобідка, буд. 4 кв. 49, Звенигородка, 25358",
+        "birthday": "1978-06-17"
+    },
+    {
+        "name": "пані Валентина Короленко",
+        "phone_number": "002 451 23 46",
+        "email": "volodymyra14@example.org",
+        "address": "вулиця Італійський, буд. 314, Збараж, 10122",
+        "birthday": "1986-09-11"
+    },
+    {
+        "name": "Розалія Скирда",
+        "phone_number": "+380 67 732 20 59",
+        "email": "iarynazaporozhets@example.org",
+        "address": "узвіз Мічманський 1-й, буд. 20, Кодима, 60338",
+        "birthday": "2019-06-15"
+    },
+    {
+        "name": "Семен Єресько",
+        "phone_number": "+380 57 041-75-55",
+        "email": "dmytroshelest@example.net",
+        "address": "парк Ковалевського узвіз, буд. 38 кв. 51, Бахмач, 13450",
+        "birthday": "2010-12-03"
+    },
+    {
+        "name": "Тереза Сомко",
+        "phone_number": "+380 (73) 540-32-60",
+        "email": "markovyshyvanyi@example.net",
+        "address": "шосе Лінія 41-ша, буд. 018, Нетішин, 06683",
+        "birthday": "1985-02-02"
+    },
+    {
+        "name": "Герман  Тихий",
+        "phone_number": "+380 82 909-88-70",
+        "email": "oleksandr78@example.org",
+        "address": "проспект Софії Перовської, буд. 81 кв. 8, Копичинці, 02899",
+        "birthday": "1991-08-28"
+    },
+    {
+        "name": "Артем Малишко",
+        "phone_number": "182-12-64",
+        "email": "tereza36@example.org",
+        "address": "шосе Десятого квітня, буд. 68, Звенигородка, 08851",
+        "birthday": "2012-07-16"
+    },
+    {
+        "name": "пан Артем Конопленко",
+        "phone_number": "080 126-44-49",
+        "email": "ybabko@example.com",
+        "address": "провулок Керченська, буд. 77, Чигирин, 15766",
+        "birthday": "2010-03-12"
+    },
+    {
+        "name": "Амалія Медведенко",
+        "phone_number": "+380 96 469-82-56",
+        "email": "datsiukihor@example.net",
+        "address": "шосе Тираспольське, буд. 0 кв. 3, Южне, 05827",
+        "birthday": "2021-03-31"
+    },
+    {
+        "name": "Світлана Мамчур",
+        "phone_number": "085 80 64",
+        "email": "qdanylenko@example.net",
+        "address": "парк Отамана Головатого, буд. 2 кв. 40, Костянтинівка, 38005",
+        "birthday": "2015-08-15"
+    },
+    {
+        "name": "Пармен Яремків",
+        "phone_number": "700-05-19",
+        "email": "taras60@example.net",
+        "address": "парк Івасюка Володимира, буд. 44 кв. 9, Богодухів, 65523",
+        "birthday": "1981-05-16"
+    },
+    {
+        "name": "Мілена Панчук",
+        "phone_number": "+380 69 683-64-74",
+        "email": "uivanchenko@example.org",
+        "address": "провулок Восьмого березня узвіз, буд. 7, Радомишль, 37932",
+        "birthday": "1996-02-11"
+    },
+    {
+        "name": "Мілена Ісаєнко",
+        "phone_number": "+380 85 211-63-51",
+        "email": "violetta30@example.com",
+        "address": "вулиця Матюшенка, буд. 349 кв. 1, Вовчанськ, 92275",
+        "birthday": "1983-04-02"
+    },
+    {
+        "name": "Опанас Гайда",
+        "phone_number": "+380 (94) 745-63-55",
+        "email": "okhrimfomenko@example.org",
+        "address": "сквер Ползунова 2-й, буд. 65 кв. 74, Сарни, 04589",
+        "birthday": "2019-04-20"
+    },
+    {
+        "name": "Пріска Перепелиця",
+        "phone_number": "054 185-05-33",
+        "email": "anita51@example.com",
+        "address": "шосе Академіка Вільямса, буд. 019, Рені, 74618",
+        "birthday": "1993-09-16"
+    },
+    {
+        "name": "Віолетта Балабан",
+        "phone_number": "018 728 84 07",
+        "email": "skybaklavdiia@example.org",
+        "address": "набережна Ольгіївський узвіз, буд. 159 кв. 392, Могилів-Подільський, 74445",
+        "birthday": "1996-02-03"
+    },
+    {
+        "name": "Пріска Щербань",
+        "phone_number": "418-84-10",
+        "email": "havrysherika@example.net",
+        "address": "сквер Проектний 5-й, буд. 679 кв. 464, Жовті Води, 65103",
+        "birthday": "1998-02-14"
+    },
+    {
+        "name": "Ростислав Петрик",
+        "phone_number": "033 83 91",
+        "email": "azarvalenko@example.com",
+        "address": "шосе Варненська, буд. 73 кв. 06, Тисмениця, 93657",
+        "birthday": "2012-07-19"
+    },
+    {
+        "name": "Алевтин Дергач",
+        "phone_number": "085 13 05",
+        "email": "cherednyknestor@example.net",
+        "address": "набережна Новикова, буд. 6, Українськ, 33821",
+        "birthday": "2013-05-21"
+    },
+    {
+        "name": "Аліна Колодуб",
+        "phone_number": "075 867 02 84",
+        "email": "roksolana49@example.org",
+        "address": "вулиця Новікова 2-га, буд. 134 кв. 174, Нетішин, 11266",
+        "birthday": "1978-09-02"
+    },
+    {
+        "name": "пані Олена Теліженко",
+        "phone_number": "+380 28 865-58-56",
+        "email": "ostap85@example.com",
+        "address": "проспект Тимірязєва, буд. 425 кв. 77, Каховка, 77778",
+        "birthday": "1976-09-13"
+    },
+    {
+        "name": "Варвара Щербак",
+        "phone_number": "+380 (51) 256-25-20",
+        "email": "eduard06@example.net",
+        "address": "набережна Залізничний 3-й, буд. 982, Сколе, 12083",
+        "birthday": "1985-05-25"
+    },
+    {
+        "name": "Богданна Лавренко",
+        "phone_number": "+380 73 183-93-60",
+        "email": "irynashvaika@example.net",
+        "address": "провулок Новгородська, буд. 312 кв. 2, Бобринець, 72446",
+        "birthday": "2011-10-21"
+    },
+    {
+        "name": "Тетяна Романець",
+        "phone_number": "+380 86 682-85-48",
+        "email": "liza69@example.org",
+        "address": "набережна Тираспольська, буд. 50 кв. 5, Ізюм, 65182",
+        "birthday": "1989-12-17"
+    },
+    {
+        "name": "Анастасія Нестайко",
+        "phone_number": "303 64 88",
+        "email": "vladyslavromanchuk@example.net",
+        "address": "сквер Прибережний, буд. 0 кв. 81, Українськ, 38324",
+        "birthday": "1976-03-02"
+    },
+    {
+        "name": "пан Захар Остапчук",
+        "phone_number": "+380 23 264-77-28",
+        "email": "okseniiavernydub@example.net",
+        "address": "парк Лінія 55-та, буд. 67, Гола Пристань, 09557",
+        "birthday": "2018-12-23"
+    },
+    {
+        "name": "Орися Цибуленко",
+        "phone_number": "003 938-55-43",
+        "email": "mlysenko@example.com",
+        "address": "набережна Степана Разіна, буд. 529, Донецьк, 36866",
+        "birthday": "2015-08-20"
+    },
+    {
+        "name": "Ліза Забашта",
+        "phone_number": "061 511 48 53",
+        "email": "viktoriialytvyn@example.net",
+        "address": "узвіз Артезіанська, буд. 927 кв. 946, Перевальськ, 69367",
+        "birthday": "1976-04-28"
+    },
+    {
+        "name": "Йосип Лубенець",
+        "phone_number": "508 33 66",
+        "email": "hudovychenko@example.org",
+        "address": "провулок Василя Кандинського, буд. 81, Бурштин , 59965",
+        "birthday": "1984-06-05"
+    },
+    {
+        "name": "Устим Перепелиця",
+        "phone_number": "+380 13 680-28-34",
+        "email": "albertierchenko@example.org",
+        "address": "набережна Лютнева, буд. 72, Красноград, 04725",
+        "birthday": "2019-11-23"
+    },
+    {
+        "name": "Соломон Хоменко",
+        "phone_number": "088 983 69 75",
+        "email": "valentyna42@example.org",
+        "address": "набережна Хаджибейський 3-й, буд. 11, Костопіль, 61023",
+        "birthday": "1995-05-12"
+    },
+    {
+        "name": "Одарка Вернигора",
+        "phone_number": "+380 79 514 39 22",
+        "email": "fchalyi@example.net",
+        "address": "узвіз Бахчева, буд. 57, Дніпрорудне, 24473",
+        "birthday": "2002-09-01"
+    },
+    {
+        "name": "Йосип Дзиндра",
+        "phone_number": "702 18 04",
+        "email": "sbezborodky@example.net",
+        "address": "проспект Шишкіна, буд. 502, Одеса, 74583",
+        "birthday": "1981-05-23"
+    },
+    {
+        "name": "Микита Негода",
+        "phone_number": "+380 (37) 890-93-26",
+        "email": "tkachhalyna@example.net",
+        "address": "узвіз Плієва, буд. 37, Камінь-Каширський, 67278",
+        "birthday": "2010-01-06"
+    },
+    {
+        "name": "Аркадій Авраменко",
+        "phone_number": "002 329 21 70",
+        "email": "andrii25@example.net",
+        "address": "набережна Юрія Яновського, буд. 320, Джанкой, 38148",
+        "birthday": "1988-09-28"
+    },
+    {
+        "name": "Назар Воблий",
+        "phone_number": "090 901-46-80",
+        "email": "iarynababychenko@example.org",
+        "address": "провулок Південна дорога, буд. 83 кв. 936, Березань , 52462",
+        "birthday": "2003-08-18"
+    },
+    {
+        "name": "Орхип Мірошниченко",
+        "phone_number": "233 18 39",
+        "email": "teodoroberemko@example.org",
+        "address": "проспект Травневий 5-й, буд. 7 кв. 560, Очаків, 84296",
+        "birthday": "1992-08-23"
+    },
+    {
+        "name": "пан Марко Цюцюра",
+        "phone_number": "098 503 73 15",
+        "email": "shukhevychalla@example.com",
+        "address": "провулок Лиманчик 2-й Лінія 5-та, буд. 171, Косів, 41475",
+        "birthday": "1983-09-23"
+    },
+    {
+        "name": "Артем Непорожній",
+        "phone_number": "047 170 96 77",
+        "email": "mchupryna@example.net",
+        "address": "шосе 6-та Суворовська, буд. 5 кв. 12, Гадяч, 88433",
+        "birthday": "2006-01-27"
+    },
+    {
+        "name": "Пантелеймон Девдюк",
+        "phone_number": "+380 (67) 791-33-81",
+        "email": "isheremet@example.net",
+        "address": "проспект Агрономічна, буд. 1, Хуст, 97702",
+        "birthday": "2007-07-16"
+    },
+    {
+        "name": "Василина Ємельяненко",
+        "phone_number": "095 758-66-11",
+        "email": "orysiaatroshchenko@example.com",
+        "address": "парк Сергія Ядова, буд. 312, Джанкой, 44032",
+        "birthday": "2018-04-13"
+    },
+    {
+        "name": "Аліна Бабійчук",
+        "phone_number": "+380 19 752-44-69",
+        "email": "agzhytskyi@example.org",
+        "address": "вулиця Олександра Невського 4-й, буд. 7, Обухів, 44508",
+        "birthday": "1980-05-17"
+    },
+    {
+        "name": "Остап Ковалюк",
+        "phone_number": "070 115 09 35",
+        "email": "skyrdaoles@example.org",
+        "address": "парк Леваневського, буд. 0, Залізне, 75052",
+        "birthday": "1991-01-15"
+    },
+    {
+        "name": "Ліза Захаренко",
+        "phone_number": "+380 74 377-98-11",
+        "email": "vzaichenko@example.net",
+        "address": "набережна Скляний 2-й, буд. 837 кв. 0, Вознесенськ, 91530",
+        "birthday": "1984-09-05"
+    },
+    {
+        "name": "Леон Петлюра",
+        "phone_number": "+380 (35) 232-51-50",
+        "email": "edeineka@example.org",
+        "address": "проспект Сашка Хорошенка, буд. 3, Дебальцеве, 59316",
+        "birthday": "2010-02-06"
+    },
+    {
+        "name": "Онисим Фартушняк",
+        "phone_number": "+380 30 551 47 44",
+        "email": "leopoldzaichenko@example.net",
+        "address": "площа Жаботинського, буд. 46, Боково-Хрустальне, 48459",
+        "birthday": "1980-04-09"
+    },
+    {
+        "name": "Пріска Артимишин",
+        "phone_number": "614-39-53",
+        "email": "cherinkooryna@example.com",
+        "address": "вулиця Глиняна, буд. 28 кв. 4, Іршава, 77059",
+        "birthday": "2007-05-31"
+    },
+    {
+        "name": "Лілія Шведченко",
+        "phone_number": "006 328-78-39",
+        "email": "herman-akymenko@example.org",
+        "address": "сквер Сирітський 2-й, буд. 331, Устилуг, 88782",
+        "birthday": "2010-07-08"
+    },
+    {
+        "name": "Єлисавета Карпенко",
+        "phone_number": "+380 65 717-42-37",
+        "email": "bohuslava43@example.net",
+        "address": "шосе Паркова, буд. 792, Валки , 76276",
+        "birthday": "1970-01-23"
+    },
+    {
+        "name": "Юстина Михалюк",
+        "phone_number": "074 477-58-32",
+        "email": "fastenkovalentyna@example.org",
+        "address": "узвіз Тираспольське, буд. 88, Докучаєвськ, 64261",
+        "birthday": "1970-08-13"
+    },
+    {
+        "name": "Валентина Охріменко",
+        "phone_number": "+380 08 279-82-77",
+        "email": "baklanliudmyla@example.com",
+        "address": "шосе Семафорний, буд. 1, Кипуче, 59727",
+        "birthday": "1998-09-07"
+    },
+    {
+        "name": "Єлисавета Базилевський",
+        "phone_number": "+380 13 848 00 80",
+        "email": "givanenko@example.org",
+        "address": "узвіз Восьмого Березня Лінія 4-та, буд. 3, Южноукраїнськ, 85693",
+        "birthday": "1975-05-30"
+    },
+    {
+        "name": "Гордій Височан",
+        "phone_number": "+380 02 072-36-23",
+        "email": "izhakvladyslav@example.org",
+        "address": "шосе Овідіопольський, буд. 0, Луганськ, 92547",
+        "birthday": "1998-04-16"
+    },
+    {
+        "name": "Федір Ільченко",
+        "phone_number": "+380 44 269-52-48",
+        "email": "stanislavtelychenko@example.org",
+        "address": "шосе Овідіопольська дорога, буд. 9, Звенигородка, 60433",
+        "birthday": "1985-08-10"
+    },
+    {
+        "name": "Одарка Цюцюра",
+        "phone_number": "+380 48 737-27-37",
+        "email": "leoniddanchuk@example.com",
+        "address": "сквер Ковиловий, буд. 1, Мирноград, 82385",
+        "birthday": "1996-08-29"
+    },
+    {
+        "name": "Оксенія Скоробогатько",
+        "phone_number": "+380 97 465 35 91",
+        "email": "iryna55@example.org",
+        "address": "площа Цегельнозаводська, буд. 695 кв. 0, Болехів, 85612",
+        "birthday": "2010-03-21"
+    },
+    {
+        "name": "Оксана Данчук",
+        "phone_number": "+380 (22) 147-16-48",
+        "email": "lukian48@example.net",
+        "address": "набережна Дельфін, буд. 6, Нетішин, 53426",
+        "birthday": "1982-10-20"
+    },
+    {
+        "name": "Адам Піддубний",
+        "phone_number": "488-60-07",
+        "email": "liudmylaarsenych@example.net",
+        "address": "проспект Тупиковий 2-й, буд. 3 кв. 16, Кодима, 57188",
+        "birthday": "2021-10-26"
+    },
+    {
+        "name": "Марʼяна Цісик",
+        "phone_number": "060 763 66 57",
+        "email": "ihnat03@example.com",
+        "address": "набережна Різовська, буд. 1 кв. 1, Кам'янець-Подільський, 19399",
+        "birthday": "2022-05-01"
+    },
+    {
+        "name": "пані Еріка Вітрук",
+        "phone_number": "+380 94 996-14-34",
+        "email": "chervonenkoemiliia@example.org",
+        "address": "парк Листяна, буд. 447, Прип'ять , 01577",
+        "birthday": "2018-10-09"
+    },
+    {
+        "name": "Гліб Вдовиченко",
+        "phone_number": "+380 (60) 757-95-10",
+        "email": "oleksakabaliuk@example.net",
+        "address": "узвіз Середня, буд. 7, Березівка, 84312",
+        "birthday": "2001-06-25"
+    },
+    {
+        "name": "Ілля Асаула",
+        "phone_number": "055 631 34 53",
+        "email": "irena90@example.com",
+        "address": "вулиця Морська, буд. 387, Ровеньки, 80861",
+        "birthday": "2012-05-12"
+    },
+    {
+        "name": "Мирон Абраменко",
+        "phone_number": "028 659 02 99",
+        "email": "stefan07@example.net",
+        "address": "узвіз Тракторна, буд. 01, Чигирин, 13571",
+        "birthday": "2008-03-06"
+    },
+    {
+        "name": "Миколай Гоголь-Яновський",
+        "phone_number": "159-42-89",
+        "email": "ihnat48@example.net",
+        "address": "провулок Балтська дорога, буд. 9, Перещепине, 59933",
+        "birthday": "1979-07-05"
+    },
+    {
+        "name": "Сніжана Рудик",
+        "phone_number": "040 651 60 39",
+        "email": "tkashchenko@example.org",
+        "address": "проспект Теліги Олени, буд. 536 кв. 18, Калуш, 79447",
+        "birthday": "2021-07-08"
+    },
+    {
+        "name": "Ірена Швайка",
+        "phone_number": "+380 34 466-68-95",
+        "email": "valentynavivcharenko@example.com",
+        "address": "вулиця Юрія Яновського, буд. 4 кв. 282, Рахів, 09610",
+        "birthday": "2011-09-13"
+    },
+    {
+        "name": "Оксенія Гавришкевич",
+        "phone_number": "+380 (37) 647-22-91",
+        "email": "charnyshalbert@example.com",
+        "address": "узвіз Лінія 48-ма, буд. 86 кв. 6, Тлумач, 04771",
+        "birthday": "1996-07-31"
+    },
+    {
+        "name": "Костянтин Артимович",
+        "phone_number": "403-55-70",
+        "email": "olha78@example.org",
+        "address": "вулиця Висоцького, буд. 0, Сколе, 52489",
+        "birthday": "1988-09-15"
+    },
+    {
+        "name": "Прохір Ґжицький",
+        "phone_number": "+380 (54) 174-15-62",
+        "email": "tsymbaliukoryna@example.com",
+        "address": "шосе Базарна, буд. 8, Калинівка , 70404",
+        "birthday": "2017-07-14"
+    },
+    {
+        "name": "Богдан Євтушок",
+        "phone_number": "054 243-56-44",
+        "email": "vitalii15@example.org",
+        "address": "сквер Приморський, буд. 61, Одеса, 82947",
+        "birthday": "1985-10-15"
+    },
+    {
+        "name": "Олекса Іваничук",
+        "phone_number": "+380 (05) 994-33-70",
+        "email": "zmalyk@example.net",
+        "address": "площа Академіка Вавилова, буд. 0 кв. 3, Глобине, 41379",
+        "birthday": "2001-10-13"
+    },
+    {
+        "name": "Богданна Щириця",
+        "phone_number": "+380 02 150-84-81",
+        "email": "dotsenkoustym@example.org",
+        "address": "набережна Мазепи Івана, буд. 47 кв. 12, Семенівка, 19871",
+        "birthday": "2009-10-27"
+    },
+    {
+        "name": "Олекса Заєць",
+        "phone_number": "+380 91 056-63-86",
+        "email": "ioliinyk@example.org",
+        "address": "вулиця Марсельська, буд. 36 кв. 0, Вижниця, 60002",
+        "birthday": "2014-04-02"
+    },
+    {
+        "name": "Любов Бевзенко",
+        "phone_number": "+380 34 605-02-62",
+        "email": "ielysaveta00@example.org",
+        "address": "узвіз Артилерійський 2-й, буд. 59, Кременець, 67631",
+        "birthday": "2002-09-03"
+    },
+    {
+        "name": "Олесь Балабан",
+        "phone_number": "+380 57 762-83-82",
+        "email": "ievaumanets@example.com",
+        "address": "сквер Шухевича Романа, буд. 8 кв. 89, Енергодар, 31248",
+        "birthday": "1995-11-19"
+    },
+    {
+        "name": "Венедикт Балабан",
+        "phone_number": "422 99 16",
+        "email": "alevtyn51@example.com",
+        "address": "набережна Самарська, буд. 727 кв. 3, Хмільник, 98654",
+        "birthday": "1985-12-02"
+    },
+    {
+        "name": "Наталія Євтушенко",
+        "phone_number": "+380 60 827 02 40",
+        "email": "konoplenkovioletta@example.org",
+        "address": "провулок Житомирська, буд. 157, Зеленодольськ, 82175",
+        "birthday": "2016-04-22"
+    },
+    {
+        "name": "Гліб Вдовиченко",
+        "phone_number": "+380 52 606 01 59",
+        "email": "myron51@example.com",
+        "address": "сквер Овідіопольська дорога, буд. 865, Носівка, 23897",
+        "birthday": "1999-01-30"
+    },
+    {
+        "name": "Станіслав Безбородько",
+        "phone_number": "287 34 66",
+        "email": "xdubyna@example.com",
+        "address": "сквер Дюківська, буд. 437, Київ, 38186",
+        "birthday": "2011-05-04"
+    },
+    {
+        "name": "Ада Хоменко",
+        "phone_number": "097 942 25 59",
+        "email": "bohdannagerega@example.org",
+        "address": "шосе Чорноморський 6-й, буд. 22 кв. 56, Довжанськ, 84831",
+        "birthday": "2013-01-05"
+    },
+    {
+        "name": "Віктор Ярош",
+        "phone_number": "+380 41 252-71-24",
+        "email": "dperepelytsia@example.net",
+        "address": "провулок Деревообробний 2-й, буд. 92, Люботин, 78788",
+        "birthday": "2010-08-14"
+    },
+    {
+        "name": "Аарон Вакарчук",
+        "phone_number": "+380 70 139-07-43",
+        "email": "haidaavhustyn@example.net",
+        "address": "узвіз Черепанових 2-й, буд. 0 кв. 08, Сокаль, 65074",
+        "birthday": "2012-01-01"
+    },
+    {
+        "name": "Климент Стус",
+        "phone_number": "089 648 39 14",
+        "email": "cherednykvarfolomii@example.org",
+        "address": "сквер Лютневий 1-й, буд. 5, Кременчук, 79061",
+        "birthday": "1982-07-05"
+    },
+    {
+        "name": "пані Єва Ющенко",
+        "phone_number": "+380 68 249 26 59",
+        "email": "fperebyinis@example.net",
+        "address": "набережна Нова, буд. 3 кв. 0, Мостиська, 71243",
+        "birthday": "2018-11-10"
+    },
+    {
+        "name": "Вʼячеслав Юрчук",
+        "phone_number": "265-76-74",
+        "email": "alekseienkozorian@example.net",
+        "address": "сквер Історія Футболу, буд. 22, Збараж, 73748",
+        "birthday": "1994-03-25"
+    },
+    {
+        "name": "Лариса Хорішко",
+        "phone_number": "038 927-17-20",
+        "email": "pavlo51@example.com",
+        "address": "провулок Пересипська 10-та, буд. 73, Берегове, 59090",
+        "birthday": "2005-07-26"
+    },
+    {
+        "name": "Надія Андрощук",
+        "phone_number": "+380 47 814 92 53",
+        "email": "ielysavetairvanets@example.net",
+        "address": "вулиця Луцька, буд. 420, Голубівка, 11134",
+        "birthday": "1992-12-29"
+    },
+    {
+        "name": "Ярина Бабко",
+        "phone_number": "+380 (74) 881-93-34",
+        "email": "dturkalo@example.com",
+        "address": "узвіз Толбухіна, буд. 4 кв. 031, Докучаєвськ, 90538",
+        "birthday": "1977-08-29"
+    },
+    {
+        "name": "Віолетта Ірванець",
+        "phone_number": "+380 (68) 016-22-55",
+        "email": "tsybulenkobohuslava@example.net",
+        "address": "сквер Траса Здоров'я, буд. 29, Самбір, 76730",
+        "birthday": "1995-02-20"
+    },
+    {
+        "name": "Борис Макаренко",
+        "phone_number": "086 361 30 00",
+        "email": "ihorhupalo@example.com",
+        "address": "парк Удільний, буд. 6 кв. 668, Житомир, 95233",
+        "birthday": "1997-08-29"
+    },
+    {
+        "name": "Оксенія Атаманчук",
+        "phone_number": "+380 67 351-68-88",
+        "email": "darynapavlyk@example.org",
+        "address": "парк Байкальська, буд. 027 кв. 2, Лохвиця, 20623",
+        "birthday": "1979-12-04"
+    },
+    {
+        "name": "Світлана Данько",
+        "phone_number": "636 22 65",
+        "email": "lskopenko@example.org",
+        "address": "проспект Дмитрія Донського, буд. 4, Косів, 52017",
+        "birthday": "2007-10-08"
+    }
+]
