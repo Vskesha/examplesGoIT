@@ -1,0 +1,1 @@
+{"tuple": [3, 4], "list": [1, 3, 4], "dict": {"a": 1}, "bool": true, "str": "Hello world", "none": null}
