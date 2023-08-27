@@ -1,0 +1,10 @@
+users:
+- age: 22
+  gender: male
+  name: Bob
+- age: 22
+  gender: female
+  name: Lucy
+- age: 18
+  gender: male
+  name: Jack
